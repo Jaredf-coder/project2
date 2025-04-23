@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    section {
+        max-height: 350px;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        max-height: 250px;
+    }
+
+    nav a {
+        font-size: 0.9rem;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        font-size: 1.6rem;
+    }
+}
