@@ -1,0 +1,9 @@
+final_project/
+├── index.html
+├── page2.html
+├── css/
+│   ├── styles.css
+│   └── styles-media.css  (for media queries)
+├── images/
+│   └── (your images here)
+└── footer.html  (or content in page2.html footer)
